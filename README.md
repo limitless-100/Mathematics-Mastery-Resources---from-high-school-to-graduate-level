@@ -1,6 +1,9 @@
 # Mathematics-Mastery-Resources---from-high-school-to-graduate-level
 🤗🤗🤗This is a comprehensive collection of mathematics resources designed to support self-study from high school to graduate-level topics. Starring this repository will enable it to reach larger audience! 👍👍 
 
+# Classification of Mathematics
+[American Mathematical Society](https://mathscinet.ams.org/mathscinet/msc/msc2020.html) (AMS) has the most comprehensive file on the classification of mathematics. It is about 230 pages.
+
 # High School
 ## Algebra
 
@@ -40,6 +43,10 @@ Here is a list of famous prestigious mathematics competitions you can participat
 17. [South Eastern European Mathematical Olympiad for University Students](http://www.massee-org.eu/index.php/mathematical/seemous) (SEEMOUS) 
 **NOTE:** Excellent resources to prepare for some of these competitions are [AoPs](https://artofproblemsolving.com/), [Mathematics Olympiads Discord Server](https://mathematics.isodn.org/), et cetera.
    
+# Popular Mathematics Communities
++ [Math Overflow](https://mathoverflow.net/) - An advanced mathematics community mainly for professional mathematicians and graduate students. Of course, anyone is free to join.
++ [Mathematics Stack Exchange](https://math.stackexchange.com/) - Question & Answer community for people studying math at any level and professionals in related fields.
+
 # Where to download free online books?
 These are some of the websites to download millions of books freely!
 1. [PDF Drive](https://www.pdfdrive.com/)
