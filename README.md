@@ -21,6 +21,8 @@ SAT, IB, A-level, AP, IGCSE
 
 # Graduate
 
+# How to Find Prerequisites For Mathematics Topics
+It's simple using the internet. See an example: "Prerequisites of functional analysis AAA" on any search engine. AAA should be replaced with Reddit, Quora, Math stack exchange or Math oveflow.
 
 # Mathematics Competitions
 Here is a list of famous prestigious mathematics competitions you can participate in.
