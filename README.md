@@ -21,16 +21,16 @@ If you prefer books, you can download these books via the websites given below:
 ## Foundations
 ### Calculus
 * [MIT 18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/) - This introductory calculus course covered differentiation and integration of functions of one variable, with applications.
-* [MIT 18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/) - Covered vector and multi-variable calculus. Topics include vectors and matrices, partial derivatives, double and triple integrals, and vector calculus in 2 and 3-space.
+* [MIT 18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/) - Covers vector and multi-variable calculus. Topics include vectors and matrices, partial derivatives, double and triple integrals, and vector calculus in 2 and 3-space.
 * Calculus, 4th edition [_by Michael Spivak_] - One of the most popular calculus book for undergraduates.
-* Calculus Early Transcendentals, 11 edition [_by Anton, Bivens, Davis_]  - Covered both single variable, multivariable variable and vector calculus. It is easy to understand, with a lot of excercises.
-* Calculus of a Single Variable, 10th edition [_by Ron Larson_] - A top-notch book foor single variable calculus.
+* Calculus Early Transcendentals, 11 edition [_by Anton, Bivens, Davis_]  - Covers both single variable, multivariable variable and vector calculus. It is easy to understand, with a lot of excercises.
+* Calculus of a Single Variable, 10th edition [_by Ron Larson_] - A top-notch book for single variable calculus.
 * Calculus Early Transcendentals, 9th edition [_by James Stewart, Saleem Watson, Daniel Clegg_] - Similar to Anthon-Bivens-Davis book.
 * Vector Calculus, 4th edition [_by Susan Jane Colley_] - Similar to Anton boo, but slightly mathematically more intense. 
 * Vector Calculus, 6th edition [_by Anthony Tombra, Jerrold E. Marsden_] - Very similar to Susan Jane book.
 
 ### Proof Writing
-* Mathematical Proofs: A Transition to Advanced Mathematics, 4th edition [_by Ping Zhang, Albert D. Polimeni, Gary Chartrand_] - Covered set theory, mathematical induction, logical reasoning, equivalence revaltions, functinos, nuber theory, combinatorics, calculus, group theory, ring theory , linear algebra, etc. It is highly recommended. 
+* Mathematical Proofs: A Transition to Advanced Mathematics, 4th edition [_by Ping Zhang, Albert D. Polimeni, Gary Chartrand_] - Covers set theory, mathematical induction, logical reasoning, equivalence revaltions, functinos, nuber theory, combinatorics, calculus, group theory, ring theory , linear algebra, etc. It is highly recommended. 
 * How to Prove It, 3rd edition [_by Velleman Daniel_] - A very nice book.
 * [Introduction to Proof Writing](https://www.youtube.com/watch?v=nGEUOLCYbng) - A full 12-hour YouTube video by **MathMajor**.
 * Book of Proof [_by Richard Hammack_] - A great book and less advanced compared to Mathematical Proofs by Ping Zhang. [Here](https://youtube.com/playlist?list=PLISEtDmihMo395ECdd9fqsIZ9y2LWXnLZ&si=JplKxyt6BK5lmDUj) is the YouTube playlist for the book.
@@ -40,32 +40,102 @@ If you prefer books, you can download these books via the websites given below:
 ## Algebra
 * Haese Mathematics HL (Option): Sets, relations and groups [_by Catherine Quinn, Robert Haese, Michael Haese_] - A beginner-friendly intrdouction to abstract algebra.
 * A First Course in Abstract Algebra, 8th edition [_by John B. Freleigh, Neal Brand_] - A very rigorous introduction to abstract algebra(groups, rings & fields, in that order) and briefly covers advanced concepts like Galois theory.
-* Contemporary Abstract Algebra [_by Joseph A. Gallan_] - One of the highly recommended books for beginners in abstract algebra. It is rich both in theory and calculation exercises. [Kimberly Brehm](https://youtube.com/playlist?list=PLl-gb0E4MII1YlnI7OBsUHQ5E42RA-ZVI&si=02JzNNpTNXzZLSG) covered the group parts on her YouTube channel.
-* Abstract Algebra [_Thomas W. Judson_] - Covered the theoretical aspects of grops, rings, and fields. Moreover, it treated their applications in coding theory and cryptography.
+* Contemporary Abstract Algebra [_by Joseph A. Gallan_] - One of the highly recommended books for beginners in abstract algebra. It is rich both in theory and calculation exercises. [Kimberly Brehm](https://youtube.com/playlist?list=PLl-gb0E4MII1YlnI7OBsUHQ5E42RA-ZVI&si=02JzNNpTNXzZLSG) covers the group parts on her YouTube channel.
+* Abstract Algebra [_Thomas W. Judson_] - Covers the theoretical aspects of grops, rings, and fields. Moreover, it treats their applications in coding theory and cryptography.
 * [Visual Group Theory](https://youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv&si=mLpng62whN93gltI) - Taught by Professor Macauley from Clemson University and should very conducive to self-study. [This](https://www.math.clemson.edu/~macaule/classes/f22_math4120/) is the course website.
 * [Abstract (Modern) Algebra Course](https://youtube.com/playlist?list=PLmU0FIlJY-Mn3Pt-r5zQ_-Ar8mAnBZTf2&si=_trrfbpVqGm0gFdo) - Taught in Spring of 2018 by Professor Bill Kinney at Bethel University. It contained 68 videos on group, ring, field and Galois theories.
 * [Abstract Algebra I](https://youtube.com/playlist?list=PLBY4G2o7DhF0JCgapYKrqibGaJuvV4Gkb&si=mp1LkbsGC4u3GmNG) -  Taught by Professor James Cook in Fall 2016. [This](http://www.supermath.info/AbstractAlgebra.html) is the course website which contained solutions to numerous questions.
 * Introduction to Linear Algebra, 5th edition [_by Gilbert Strang_] - This is a golden book for introductory linear algebra course. Professor Gilbert is a legend and famously konown for this course globally. Check [MIT 18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) and the [YouTube playlist](https://youtube.com/playlist?list=PL221E2BBF13BECF6C&si=tIeA7rD5pDkrdLWa) for his lesson videos.
-* Linearv
+* Elementary Linear Algebra, 8th edition [_by Ron Larson_] - A very beginner-friendly introductory to Linear Algebra.
 * Linear Algebra Done Right, 4th edition [_by Sheldon Axler_] - A rigorous introductory course, most suitable after finishing Gilbert's or Ron's book.
+* Linear Algebra [_by Stephen H. Friedberg, Arnold J. Insel, Lawrence E. Spence_] - An excellent and elaborate introductory book but demands sufficiently high mathematical maturity from its readers.
 
 ## Analysis
-* 
+* Theory of Infinite Sequences and Series [_by Ludmila Bourchtein, Andrei Bourchtein_] - Covers a lot of theprem extensively on series and sequences than a standard single variable calculus book 
+* Real Analysis via Series and Sequences, 2015 edition [_by Charles H.C. Little, Kee L. Teo, Bruce van Brunt_] - Requires the mastery of single variable calculus and foundational proof writing.
+* g
+* g
+* g
+* g
+* g
+* Complex Analysis by Dennis 
+
 ## Logic
+* t
+* t
+* t
+* t
+* t
+* t
+* t
 
 ## Topology & Geometry
+* g
+* g
+* g
+* g
+* g
+* g
+* g
 
 ## Probability & Statistics
+* g
+* g
+* g
+* g
+* g
+* g
+* g
 
 ## Number Theory
+* g
+* g
+* g
+* g
+* g
+* g
+* g
+* g
 
-## Combinatorics 
+## Combinatorics
+* w
+* w
+* w
+* w
+* w
+* w
+* w
+* w
+* w
 
 ## Discrete Mathematics
+* g
+* g
+* g
+* g
+* g
+* g
+* g
+* g
 
 ## Statistics & Data Science
+* r
+* r
+* r
+* r
+* r
+* r
+* r
 
 ## Computational & Applied Mathematics
+* Differential Equatiosn
+* h
+* h
+* h
+* h
+* h
+* h
+* 
 
 # Graduate
 
