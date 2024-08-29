@@ -5,19 +5,20 @@
 [American Mathematical Society](https://mathscinet.ams.org/mathscinet/msc/msc2020.html) (AMS) has the most comprehensive file on the classification of mathematics. It is about 230 pages.
 
 # High School
-## Algebra
+[Khan Academy](https://www.khanacademy.org/) is the best resource to learn grade 1 to 12 mathematics topics. It is also the official platform to prepare for [SAT](https://satsuite.collegeboard.org/sat/registration), as well good (not fully sufficient) for [IGCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/), [AP exam](https://satsuite.collegeboard.org/sat/registration), [IB exam](https://www.ibo.org/programmes/diploma-programme/assessment-and-exams/) and [A-level exam](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-advanced/cambridge-international-as-and-a-levels/). Depending on your mathematics goals, if you are someone (e.g undergraduate, working professional) that quickly want to revisit your old mathematics knowledge, Khan Academy is your surest bet. 
 
-## Geometry and Trigonometry
-
-## Calculus
-
-## Statistics
-
-SAT, IB, A-level, AP, IGCSE
-
+If you prefer books, you can download these books via the websites given below:
+* Cambridge IGCSE, AS & A level coursebooks
+* Haese Mathematics coursebooks for IB exam
+* AP books
+  - Calculus AB and BC: Barron's AP Calculus, Princeton Review's Cracking the AP Calculus AB & BC Exams
+  - Statistics: Princeton Review AP Statistics Prep, Barron’s AP Statistics and 5 Steps to a 5: AP Statistics
+* [Pauls Online Math Notes](https://tutorial.math.lamar.edu/) - an excellent online resource!
 
 # Undergraduate
+## Calculus
 
+## 
 
 # Graduate
 
