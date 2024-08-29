@@ -16,7 +16,30 @@ If you prefer books, you can download these books via the websites given below:
 * [Pauls Online Math Notes](https://tutorial.math.lamar.edu/) - an excellent online resource!
 
 # Undergraduate
-## Calculus
+## Foundations
+### Calculus
+* [MIT 18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/) - This introductory calculus course covers differentiation and integration of functions of one variable, with applications.
+* [MIT 18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/) - Covers vector and multi-variable calculus. Topics include vectors and matrices, partial derivatives, double and triple integrals, and vector calculus in 2 and 3-space
+* Calculus, 4th edition [by Michael Spivak] - One of the most popular calculus book for undergraduates.
+* Calculus Early Transcendentals, 11 edition [by Anton, Bivens, Davis]  - Covers both single variable, multivariable variable and vector calculus. It is easy to understand, with a lot of excercises.
+* Calculus of a Single Variable, 10th edition [by Ron Larson] - A top-notch book foor single variable calculus.
+* Calculus Early Transcendentals, 9th edition [by James Stewart, Saleem Watson, Daniel Clegg] - Similar to Anthon-Bivens-Davis book.
+* Vector Calculus, 4th edition [by Susan Jane Colley] - Similar to Anton boo, but slightly mathematically more intense. 
+* Vector Calculus, 6th edition [by Anthony Tombra, Jerrold E. Marsden] - Very similar to Susan Jane book.
+
+### Proof Writing
+* Mathematical Proofs: A Transition to Advanced Mathematics, 4th edition [by Ping Zhang, Albert D. Polimeni, Gary Chartrand] - Covers set theory, mathematical induction, logical reasoning, equivalence revaltions, functinos, nuber theory, combinatorics, calculus, group theory, ring theory , linear algebra, etc. It is highly recommended. 
+* How to Prove It, 3rd edition [by Velleman Daniel] - A very nice book.
+* [Introduction to Proof Writing](https://www.youtube.com/watch?v=nGEUOLCYbng) - A full 12-hour YouTube video by MathMajor
+* Book of Proof [by Richard Hammack] - A great book and less advanced compared to Mathematical Proofs by Ping Zhang. [Here](https://youtube.com/playlist?list=PLISEtDmihMo395ECdd9fqsIZ9y2LWXnLZ&si=JplKxyt6BK5lmDUj) is the YouTube playlist for the book.
+* [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) - A popular Coursera course by Dr. Keith Kelvin from Stanford University.
+* Proofs [by Jay Cummings] - Very intuitive and fun!
+
+##
+
+##
+
+## 
 
 ## 
 
