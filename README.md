@@ -45,10 +45,12 @@ If you prefer books, you can download these books via the websites given below:
 * [Visual Group Theory](https://youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv&si=mLpng62whN93gltI) - Taught by Professor Macauley from Clemson University and should very conducive to self-study. [This](https://www.math.clemson.edu/~macaule/classes/f22_math4120/) is the course website.
 * [Abstract (Modern) Algebra Course](https://youtube.com/playlist?list=PLmU0FIlJY-Mn3Pt-r5zQ_-Ar8mAnBZTf2&si=_trrfbpVqGm0gFdo) - Taught in Spring of 2018 by Professor Bill Kinney at Bethel University. It contained 68 videos on group, ring, field and Galois theories.
 * [Abstract Algebra I](https://youtube.com/playlist?list=PLBY4G2o7DhF0JCgapYKrqibGaJuvV4Gkb&si=mp1LkbsGC4u3GmNG) -  Taught by Professor James Cook in Fall 2016. [This](http://www.supermath.info/AbstractAlgebra.html) is the course website which contained solutions to numerous questions.
-* 
+* Introduction to Linear Algebra, 5th edition [_by Gilbert Strang_] - This is a golden book for introductory linear algebra course. Professor Gilbert is a legend and famously konown for this course globally. Check [MIT 18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) and the [YouTube playlist](https://youtube.com/playlist?list=PL221E2BBF13BECF6C&si=tIeA7rD5pDkrdLWa) for his lesson videos.
+* Linearv
+* Linear Algebra Done Right, 4th edition [_by Sheldon Axler_] - A rigorous introductory course, most suitable after finishing Gilbert's or Ron's book.
 
 ## Analysis
-
+* 
 ## Logic
 
 ## Topology & Geometry
