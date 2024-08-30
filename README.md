@@ -20,7 +20,7 @@ If you prefer books, you can download these books via the websites given below:
 # Undergraduate
 ## Foundations
 ### Calculus
-* [MIT 18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/) - This introductory calculus course covered differentiation and integration of functions of one variable, with applications.
+* [MIT 18.01 Single Variable Calculus*](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/) - This introductory calculus course covered differentiation and integration of functions of one variable, with applications.
 * [MIT 18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/) - Covers vector and multi-variable calculus. Topics include vectors and matrices, partial derivatives, double and triple integrals, and vector calculus in 2 and 3-space.
 * Calculus, 4th edition [_by Michael Spivak_] - One of the most popular calculus book for undergraduates.
 * Calculus Early Transcendentals, 11 edition [_by Anton, Bivens, Davis_]  - Covers both single variable, multivariable variable and vector calculus. It is easy to understand, with a lot of excercises.
@@ -53,14 +53,12 @@ If you prefer books, you can download these books via the websites given below:
 ## Analysis
 * Theory of Infinite Sequences and Series [_by Ludmila Bourchtein, Andrei Bourchtein_] - Covers a lot of theprem extensively on series and sequences than a standard single variable calculus book 
 * Real Analysis via Series and Sequences, 2015 edition [_by Charles H.C. Little, Kee L. Teo, Bruce van Brunt_] - Requires the mastery of single variable calculus and foundational proof writing.
-* g
-* g
-* g
-* g
-* g
-* Complex Analysis by Dennis 
+* Real Analysis: A Long-Form Mathematics Textbookb [_by Jay Cummings_] - The author has a knack for explaining advanced concepts in funny and intuitive ways.
+* Principles of Mathemamtical Analysis [_by Walter Rudin_] - Colloquially known as _"PMA"_ or _"Baby Rudin"_. It is a famous book but requires rich mathematical maturity!
+* [MIT 18.100A Real Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/) - Contains MIT lecture notes, videos, assignments and examinations.
+* A First Course in Complex Analysis with Applications by Dennis G. Zill - Its only prerequisite is multivariable and vector calculus.
 
-## Logic
+## Logic and Set Theory
 * t
 * t
 * t
