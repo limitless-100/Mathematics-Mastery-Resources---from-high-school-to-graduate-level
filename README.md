@@ -57,83 +57,52 @@ If you prefer books, you can download these books via the websites given below:
 * Principles of Mathemamtical Analysis [_by Walter Rudin_] - Colloquially known as _"PMA"_ or _"Baby Rudin"_. It is a famous book but requires rich mathematical maturity!
 * [MIT 18.100A Real Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/) - Contains MIT lecture notes, videos, assignments and examinations.
 * A First Course in Complex Analysis with Applications by Dennis G. Zill - Its only prerequisite is multivariable and vector calculus.
+* [Lebesgue Measure and Integration by Presidomath](https://youtube.com/playlist?list=PLPluXkAqV1FFi2BxxsHVgKIXA-ThQQ5sN&si=nsWq4PoKWWpe-OoD) - Useful playlist to learn lebesgue measure and integration.
 
 ## Logic and Set Theory
-* t
-* t
-* t
-* t
-* t
-* t
-* t
+* Introduction to mathematical logic, 6th edition [_by Elliott Mendelson_] - Covers first-order logic, number theory, axiomatic set theory & computability.
+* Mathematical Logic [_by Ian Chiswell and Wilfrid Hodges_] - Covers natural deduction, propositional logic, quantifier-free logic, first-order logic.
+* A friendly introduction to mathematical logic [_by Christopher C. Leary and Lars Kristiansen_] - covers the central topics of first-order mathematical logic such as Incompleteness theorems, computability theory, completeness and compactness.
+* Elements of Set Theory [_by Herbert B. Enderton_] - Highly respected book but might not be the best for self studying.
+* A first course in mathematical logic and set theory [_by Michael L. O'Leary_] - covers the necessary basics in a very friendly approach.
+
 
 ## Topology & Geometry
-* g
-* g
-* g
-* g
-* g
-* g
-* g
+* Topology [_by James R. Munkres_] - The standard undergraduate book in most universities.
+* [General Topology by Presidomath](https://youtube.com/playlist?list=PLPluXkAqV1FG7WFEiud9JLWISY6Y5_j9G&si=mIZQEKLq_a420UQl) - An excellent playlist to learn the basics of general toplology.
+* Elementary Topology Problem Textbook [_by Viro, Ivanov, Netsvetaev, Kharlamov_] - Really good for improving problem solving skills in topology.
+* Undergraduate Topology: A Working Textbook [_by Aisling McCluskey, Brian McMaster_] - Short and wonderful book to sharpen your problem solving skills.
+* Differential Geometry of Curves and Surfaces, 2nd edition [_by Manfredo P. Do Carmo_] - Well-respected book that covers differential geometry from a classical approach.
+* Elementary Differential Geometry, 2nd edition [_by Barret O'Neill_] - It uses differential forms approach and requires only the knowledge of calculus and linear algebra courses.
+* John Lee's 3 book series: (In ascending order of study) Introduction to Topological Manifolds, Introduction to Smooth Manifolds, and Introduction to Riemannian Manifolds - Good for beginning-level graduate study.
 
 ## Probability & Statistics
-* g
-* g
-* g
-* g
-* g
-* g
-* g
+* Introduction to Probability Models, 10th edition [_by Sheldon Ross_] - A golden textbook which covers basic probability theory, markov chains, renewal theory, queuing theory, etc.
+* Introduction to Probability [_by Dimitri P. Bertsekas and John N. Tsitsiklis_] - Quite rigorous and should not be used as a first exposure to probability unless you've built an excellent mathematical maturity. Its online version can be found on [MITx](https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data).
+* Probability & Statistics for Engineers and Scientists, 9th edition [_by Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers, Keying Ye_] - Very easy to understand and really suitable for beginners in engineering/statistics field. 
 
 ## Number Theory
-* g
-* g
-* g
-* g
-* g
-* g
-* g
-* g
-
-## Combinatorics
-* w
-* w
-* w
-* w
-* w
-* w
-* w
-* w
-* w
+* Elementary Number Theory [_by David Burton_] - A good book to start your number theory journey.
+* Methods of Solving Number Theory Problems [_by Ellina Grigorieva_] - Doesn't require more than high-school mathematics.
+* Elementary Number Theory [_by Thomas Koshy_] - An excellent introductory book with less emphasis on rigorous proofs.
+* Problems in Algebraic Number Theory [_by M. Ram Murty Jody Esmonde_] - Contains a collection of 500 problems with solutions.
 
 ## Discrete Mathematics
-* g
-* g
-* g
-* g
-* g
-* g
-* g
-* g
+* Essential Discrete Mathematics for Computer Science [_by Harry Lewis_] - Beginner-level book with interesting topics like set theory, logic, graph theory, automata theory, probability, cryptography.
+* Discrete Mathematics with Applications [_by Kenneth H. Rosen_] - Doesn't require any prerequisites other than sufficient maturity to use it.
+  
 
 ## Statistics & Data Science
-* r
-* r
-* r
-* r
-* r
-* r
-* r
+* The Elements of Statistical Learning (ESL) [_by Trevor Hastie, Robert Tibshirani, Jerome Friedman_] - A must-read book if you are serious about machine learning. 
+* Introduction to Statistical Learning (ISL) - Written by same authors, you can start with ISL if ESL is too advanced for you. ISL has both Python and R editions. 
+* Introduction to Probability for Data Science [_by Stanley H. Chan_] - Highly recommended and contains most needed knowledge for a typical machine learning/data science job, coupled with Python and MATLAB codes.
+
 
 ## Computational & Applied Mathematics
-* Differential Equatiosn
-* h
-* h
-* h
-* h
-* h
-* h
-* 
+*  Elementary Differential Equations and Boundary Value Problems [_by Boyce, Diprima , Meade_] - Very explanatory and suitable for beginners. It also covers basics of PDEs. Its online version can be found via [MIT OCW](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/)
+* Understanding Engineering Mathematics [_by John Bird_] - Started from middle-school mathematics up the way to PDEs, Fourier and Laplace transforms.
+* Advanced Engineering Mathematics [_by Dennis G. Zill_] - Covers differential equations, PDEs, Laplace & Integral transforms, numerical analysis, vector and matrix calculus, complex analysis.
+* Mathematical Methods for Engineers and Scientists (Book 1,2 and 3) [_by K.T Tang_] - Covers vector analysis, ODEs, Laplace transforms, matrix analysis, complex analysis, tensor analysis, Fourier analysis, Sturm-Liouville theory and special functions, PDEs.
 
 # Graduate
 
